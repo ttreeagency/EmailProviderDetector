@@ -1,0 +1,3 @@
+Ttree:
+  EmailProviderDetector:
+    source: 'resource://Ttree.EmailProviderDetector/Private/Source.txt'
